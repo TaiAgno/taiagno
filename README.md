@@ -1,6 +1,25 @@
 # 💫 well hello, Tai here!
 
+reporting from Queenstown, New Zealand.
+
+Before the whole blurb starts, I just need to say:
 I'm about to start working on a gamification project - VERY EXCITED!
+
+life has been a roller coaster, for good and bad.
+what do you do with the bad?
+take it, smash it, turn it into good.
+<br>
+I achieved a Master's Degree in History when I was 22 years old - specifically History of Photography.
+during my academic years I also studied formal photography, including darkroom development. I still have a full dark room set up in my parents home.
+
+diverting from that path, my first work experience was in Show Business, negotiating contracts and planning tours for, mainly, international artists and companies.
+
+eventually it made sense to pursue a better life in New Zealand, and made the move in 2015.
+as an immigrant, tasked with making a living, the job opportunity I secured was in Hospitality, a role I dutifully performed—from Reservations Assistant to Front Office Supervisor in Auckland, and later as Duty Manager and Reservationist in Queenstown.
+
+for over a year now, I have been able to pursue my true calling in development. In this journey, I achieved a Diploma in Web Development and Web Design, and most recently, I completed a Cloud & DevOps Software Development program.
+
+any coder out there knows—there is no day like the other. Foreseen and unforeseen challenges are the norm. For me, that is gold; nothing motivates me more than a shiny challenge.
 
 
 
