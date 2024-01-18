@@ -2,9 +2,11 @@
 
 reporting from Queenstown, New Zealand.
 
-Before the whole blurb starts, I just need to say:
+before the whole blurb starts, I just need to say:
+
 I'm about to start working on a gamification project - VERY EXCITED!
 
+<br>
 life has been a roller coaster, for good and bad.
 what do you do with the bad?
 take it, smash it, turn it into good.
