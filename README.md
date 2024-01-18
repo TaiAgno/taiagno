@@ -14,7 +14,6 @@ any coder out there knows—there is no day like the other.<br>foreseen and unfo
 do you have a challenge for me?
 
 <br>
-<br>
 
 I achieved a Master's Degree in History when I was 22 years old - specifically History of Photography.<br>
 during my academic years I also studied formal photography, including darkroom development. I still have a full darkroom set up in my parents home.
