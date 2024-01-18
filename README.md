@@ -7,9 +7,9 @@ before the whole blurb starts, I just need to say:
 I'm about to start working on a gamification project - VERY EXCITED!
 
 <br>
-life has been a roller coaster, for good and bad.
-what do you do with the bad?
-take it, smash it, turn it into good.
+life has been a roller coaster, for good and bad.<br>
+what do you do with the bad?<br>
+take it, smash it, turn it into good.<br>
 <br>
 I achieved a Master's Degree in History when I was 22 years old - specifically History of Photography.
 during my academic years I also studied formal photography, including darkroom development. I still have a full dark room set up in my parents home.
