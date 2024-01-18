@@ -38,6 +38,6 @@ for over a year now, I have been able to pursue my true calling in development.<
 <br>
 
 
-## finding me
+# finding me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taiagnoletto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taiagnoletto/)
