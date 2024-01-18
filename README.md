@@ -12,7 +12,10 @@ take it, smash it, turn it into good.<br>
 any coder out there knows—there is no day like the other.<br>foreseen and unforeseen challenges are the norm.<br>for me, that is gold; nothing motivates me more than a shiny challenge.
 
 do you have a challenge for me?
+
 <br>
+<br>
+
 I achieved a Master's Degree in History when I was 22 years old - specifically History of Photography.<br>
 during my academic years I also studied formal photography, including darkroom development. I still have a full darkroom set up in my parents home.
 
