@@ -1,8 +1,8 @@
-# 💫 Hi there, I am Tai!
+# 💫 well hello, I am Tai!
 
-I'm about to start working on a gamification project - VERY EXCITED!<br><br>
+I'm about to start working on a gamification project - VERY EXCITED!
 
-<br><br>
+<br>
 
 # 💻 the works
 
@@ -10,11 +10,9 @@ I'm about to start working on a gamification project - VERY EXCITED!<br><br>
 
 
 
-<br><br>
+<br>
 
 
-## connecting
+## to find me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taiagnoletto) <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taiagnoletto/)
-
-<br><br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taiagnoletto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taiagnoletto/)
