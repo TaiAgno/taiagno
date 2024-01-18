@@ -15,7 +15,7 @@ during my academic years I also studied formal photography, including darkroom d
 diverting from that path, my first work experience was in Show Business, negotiating contracts and planning tours for, mainly, international artists and companies.
 
 eventually it made sense to pursue a better life in New Zealand, and I made the move in 2015.<br>
-as an immigrant, tasked with making a living, the job opportunity I secured was in Hospitality<br> roles which I dutifully performed—from Reservations Assistant to Front Office Supervisor in Auckland, and later as Duty Manager and Reservationist in Queenstown.
+as an immigrant, I found work in Hospitality<br>dutifully performed I performed various roles—from Reservations Assistant to Front Office Supervisor in Auckland, and later as Duty Manager and Reservationist in Queenstown.
 
 for over a year now, I have been able to pursue my true calling in development.<br>in this journey, I achieved a Diploma in Web Development and Web Design, and most recently, I completed a Cloud & DevOps Software Development program.
 
