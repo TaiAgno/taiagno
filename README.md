@@ -1,17 +1,17 @@
-# 💫 well hello, Tai here!
+# 💫 well hello, Tai here! ✨
 
-reporting from Queenstown, New Zealand.
+reporting from Queenstown, New Zealand. 
 
-before the whole blurb starts, I just need to say:<br>I'm about to start working on a gamification project - VERY EXCITED!
+before the whole blurb starts, I just need to say:<br>I'm about to start working on a gamification project - VERY EXCITED! 🚀
 
 
 life has been a roller coaster, for good and bad.<br>
 what do you do with the bad?<br>
-take it, smash it, turn it into good.<br>
+take it, smash it, turn it into good. 💪<br>
 
 any coder out there knows—there is no day like the other.<br>foreseen and unforeseen challenges are the norm.<br>for me, that is gold; nothing motivates me more than a shiny challenge.
 
-do you have a challenge for me?
+do you have a challenge for me? 🔥
 
 <br>
 
