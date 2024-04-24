@@ -2,7 +2,7 @@
 
 reporting from Queenstown, New Zealand. 
 
-I am currently working in a gamification project, using biofeedback in a video game.<br>Unity Engine, C# and whatnot - VERY EXCITing! 🚀
+I am currently working in a gamification project, using biofeedback in a video game.<br>Unity Engine, C# and whatnot - VERY EXCITING! 🚀
 
 
 life has been a roller coaster, for good and bad.<br>
