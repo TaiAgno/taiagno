@@ -2,7 +2,7 @@
 
 reporting from Queenstown, New Zealand. 
 
-before the whole blurb starts, I just need to say:<br>I'm about to start working on a gamification project - VERY EXCITED! 🚀
+I am currently working in a gamification project, using biofeedback in a video game.<br>Unity Engine, C# and whatnot - VERY EXCITing! 🚀
 
 
 life has been a roller coaster, for good and bad.<br>
