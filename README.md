@@ -2,18 +2,21 @@
 
 reporting from Queenstown, New Zealand. 
 
-I am currently working in a gamification project, using biofeedback in a video game.<br>Unity Engine, C# and whatnot - VERY EXCITING! 🚀
+my most recent work is in a gamification project, utilising live biofeedback data (Polar H10 chest strap) in a video game to promote self-regulation.<br>Unity Engine, C# and whatnot - VERY EXCITING! 🚀
 
-
-life has been a roller coaster, for good and bad.<br>
-what do you do with the bad?<br>
-take it, smash it, turn it into good. 💪<br>
+life has given me the opportunity to pursue my true calling, and retrain in development.<br>in this journey, I achieved a Diploma in Web Development and Web Design, and a Cloud & DevOps Software Development certification.
 
 any coder out there knows—there is no day like the other.<br>foreseen and unforeseen challenges are the norm.<br>for me, that is gold; nothing motivates me more than a shiny challenge.
 
 do you have a challenge for me? 🔥
 
+life has been a roller coaster, for good and bad.<br>
+what do you do with the bad?<br>
+take it, smash it, turn it into good. 💪<br>
+
 <br>
+
+In a previous life...
 
 I achieved a Master's Degree in History when I was 22 years old - specifically History of Photography.<br>
 during my academic years I also studied formal photography, including darkroom development. I still have a full darkroom set up in my parents home.
@@ -22,9 +25,6 @@ diverting from that path, my first work experience was in Show Business, negotia
 
 eventually it made sense to pursue a better life in New Zealand, and I made the move in 2015.<br>
 as an immigrant, I found work in Hospitality and dutifully performed various roles—from Reservations Assistant to Front Office Supervisor in Auckland, and later as Duty Manager and Reservationist in Queenstown.
-
-for over a year now, I have been able to pursue my true calling in development.<br>in this journey, I achieved a Diploma in Web Development and Web Design, and most recently, I completed a Cloud & DevOps Software Development program.
-
 
 
 <br>
